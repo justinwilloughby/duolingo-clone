@@ -1,3 +1,11 @@
+# Lingo
+
+I've been following a tutorial for creating a Duolingo clone and this is what I have so far. Once I get through the tutorial, I want to customize it to help teach sign language. I became a dad this year and have been interested in sign language as a way to help kids communicate. Made with Next, Clerk, Neon.
+
+![Lingo App Screenshot 1](Lingo1.png "Lingo App Interface 1")
+![Lingo App Screenshot 2](Lingo2.png "Lingo App Interface 2")
+![Lingo App Screenshot 3](Lingo3.png "Lingo App Interface 3")
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
